@@ -1,3 +1,5 @@
+Tools / Technologies used: Python, SVM (Machine Learning Model), and Random forest (Machine Learning Model)
+
 # Summary
 Random Forest is better than SVM, even without GridSearchCV.
 ***
